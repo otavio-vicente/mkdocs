@@ -1,17 +1,47 @@
-# Welcome to MkDocs
+# Bem-vindo à Documentação do Projeto
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Seja bem-vindo! Esta é a documentação oficial do projeto **MKDocs**.
 
-## Commands
+Aqui você encontrará todas as informações necessárias para entender, configurar e utilizar este projeto de forma eficiente.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+---
 
-## Project layout
+## 🚀 Objetivo
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+O objetivo deste projeto é demonstrar como documentar um sistema de forma estruturada, simples e com deploy contínuo usando **MkDocs** e **GitHub Pages**.
+
+---
+
+## 📚 Conteúdo
+
+- [x] Introdução
+- [x] Estrutura do projeto
+- [x] Instalação de dependências
+- [x] Deploy com `mkdocs`
+- [x] Integração com GitHub Actions
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Python 3.x**
+- **MkDocs**
+- **mkdocs-material**
+- **GitHub Pages**
+- **GitHub Actions**
+
+---
+
+## 🌐 Acesse a Documentação Online
+
+👉 [Clique aqui para acessar](https://otavio-vicente.github.io/mkdocs/)
+
+---
+
+## 🤝 Contribuições
+
+Sinta-se à vontade para contribuir com melhorias! Basta abrir uma issue ou pull request no repositório.
+
+---
+
+> Gerado com ❤️ usando [MkDocs](https://www.mkdocs.org) e [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
